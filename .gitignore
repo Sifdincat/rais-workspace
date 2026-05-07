@@ -1,0 +1,14 @@
+# Transcription files
+transcribe_*
+audio*.txt
+latest_audio.txt
+
+# Test files
+test-vision.png
+
+# Run-time state
+.openclaw/
+
+# OS files
+*~
+.DS_Store
