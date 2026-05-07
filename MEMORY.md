@@ -22,3 +22,5 @@
 **Contacto:**
 - Albert se comunica por Telegram (id: 2131818158)
 - También por WhatsApp como Macua (+34 624 35 07 43)
+
+**Contexto completo disponible en:** CONTEXTO.md
