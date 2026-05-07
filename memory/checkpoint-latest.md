@@ -3,10 +3,10 @@
 **Estado:** Conversación activa con Albert
 
 ## Último tema tratado
-- Hardware: **RTX 5060 Ti 16GB COMPRADA** ✅ (~€574) + Corsair CV550 (~€50) pendiente
+- Hardware: **RTX 5060 Ti 16GB COMPRADA** ✅ + **Corsair CV550 comprada** ✅
 - Marca/modelo: ZOTAC Gaming RTX 5060 Ti Twin Edge 16GB
-- Placa ASUS H110M-D compatible ✅. Fuente OWLOTECH 500W actual → cambiar por Corsair CV550
-- Pendiente de comprar la fuente también
+- Placa ASUS H110M-D compatible ✅. Fuente OWLOTECH 500W → reemplazada por Corsair CV550
+- Total inversión: ~€624
 
 ## Estado de la identidad
 - ✅ AGENTS.md con identidad en cabecera
