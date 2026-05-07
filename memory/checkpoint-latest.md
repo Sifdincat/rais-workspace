@@ -3,9 +3,10 @@
 **Estado:** Conversación activa con Albert
 
 ## Último tema tratado
-- Hardware: RTX 4060 Ti 16GB (~€450-470) + Corsair CX550 (~€50) para IA local
-- Placa ASUS H110M-D compatible ✅, OWLOTECH 500W actual puede no tener conector PCIe
-- Presupuesto total: ~€500
+- Hardware: **RTX 5060 Ti 16GB COMPRADA** ✅ (~€574) + Corsair CV550 (~€50) pendiente
+- Marca/modelo: ZOTAC Gaming RTX 5060 Ti Twin Edge 16GB
+- Placa ASUS H110M-D compatible ✅. Fuente OWLOTECH 500W actual → cambiar por Corsair CV550
+- Pendiente de comprar la fuente también
 
 ## Estado de la identidad
 - ✅ AGENTS.md con identidad en cabecera
